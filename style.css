@@ -41,7 +41,7 @@ a {
     background-image: url("https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: bottom left;
+    background-position: center top;
     background-size: cover;
     background-color: rgba(0, 0, 0, .35 );
     background-blend-mode: overlay;
